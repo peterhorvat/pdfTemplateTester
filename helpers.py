@@ -1,4 +1,5 @@
 from pathlib import Path
+import os
 import json
 
 from jinja2 import Environment, FileSystemLoader
@@ -31,3 +32,8 @@ def generate_pdf(template_path: str, style_path: str, content: dict) -> bytes:
     pdf_content = pdf_html.write_pdf(stylesheets=[pdf_css], presentational_hints=True)
     # pdf_render = pdf_html.render(stylesheets=[pdf_css])
     return pdf_content
+
+
+def create_directory(directory_path: str):
+    if not os.path.exists(directory_path):
+        os.makedirs(directory_path)
