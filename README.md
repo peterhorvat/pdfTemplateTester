@@ -2,8 +2,6 @@
 
 ### Requirements:
 - Python 3.8+
-- Jinja2 3.1.2
-- WeasyPrint 52.5
 
 ### Parameters:
   `json_file`     - Path to the JSON file
@@ -17,6 +15,14 @@
   `date_to`       - Date to (e.g., 2020-03-04)
 
 ### Usage:
+```
+1. Create virtual environment
+2. Install requirements.txt with ```pip install -r requirements.txt```
+3. Run main.py (with parameters)
+
+Shell commands for MacOS:
+- ``
+```
 
 #### FLTK Order Report
 ```shell
