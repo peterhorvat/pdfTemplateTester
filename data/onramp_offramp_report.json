@@ -1,0 +1,1372 @@
+[
+    {
+        "OnrampOfframpExportPdfOut(date": "25.07.2023 09:03:03",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "30.0",
+        "amount_crypto": "0.016871",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "paymentReceived"
+    },
+    {
+        "date": "25.07.2023 09:07:00",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "35.0",
+        "amount_crypto": "0.019673",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "paymentReceived"
+    },
+    {
+        "date": "25.07.2023 09:10:35",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "59.0",
+        "amount_crypto": "0.033165",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "paymentReceived"
+    },
+    {
+        "date": "25.07.2023 09:28:44",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "52.0",
+        "amount_crypto": "0.029231",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "paymentReceived"
+    },
+    {
+        "date": "25.07.2023 09:31:58",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "51.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "25.07.2023 09:35:51",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "40.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "25.07.2023 09:53:28",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "1000.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "25.07.2023 09:55:52",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "100.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "25.07.2023 09:58:41",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "20.0",
+        "amount_crypto": "30.154",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "declined"
+    },
+    {
+        "date": "25.07.2023 10:07:12",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "100.0",
+        "amount_crypto": "150.599",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "paymentReceived"
+    },
+    {
+        "date": "25.07.2023 10:16:06",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "68.178",
+        "payment_currency": "USD",
+        "transfer_type": "Visa/Mastercard",
+        "status": "paymentReceived"
+    },
+    {
+        "date": "25.07.2023 11:24:52",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "100.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "25.07.2023 11:26:55",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "1000.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "25.07.2023 12:56:39",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "102.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "25.07.2023 13:47:01",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "100.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "xyz"
+    },
+    {
+        "date": "25.07.2023 14:22:03",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "30.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "26.07.2023 09:52:43",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "20.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "26.07.2023 13:35:24",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "20.0",
+        "amount_crypto": "30.154",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "declined"
+    },
+    {
+        "date": "26.07.2023 13:42:30",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "30.0",
+        "amount_crypto": "45.246",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "paymentReceived"
+    },
+    {
+        "date": "27.07.2023 14:22:24",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "20.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "27.07.2023 14:24:26",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "30.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "27.07.2023 14:51:54",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "20.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "16.08.2023 09:39:32",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "100.0",
+        "amount_crypto": "103.02",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "paymentReceived"
+    },
+    {
+        "date": "16.08.2023 09:47:36",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "100.0",
+        "amount_crypto": "148.997",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "paymentReceived"
+    },
+    {
+        "date": "16.08.2023 12:30:19",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "35.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "17.08.2023 07:56:50",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "40.0",
+        "amount_crypto": "59.319",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "paymentReceived"
+    },
+    {
+        "date": "17.08.2023 15:17:10",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "80.0",
+        "amount_crypto": "118.653",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "complete"
+    },
+    {
+        "date": "22.08.2023 11:36:58",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "100.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "USD",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "22.08.2023 11:42:10",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "100.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "iDEAL",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "23.08.2023 12:52:37",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "25.0",
+        "amount_crypto": "25.48",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "declined"
+    },
+    {
+        "date": "23.08.2023 13:01:57",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "153.0",
+        "amount_crypto": "225.579",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "expired"
+    },
+    {
+        "date": "25.08.2023 09:20:46",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "150.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "USD",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "25.08.2023 10:28:57",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "CHF",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "25.08.2023 10:32:01",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "CHF",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "25.08.2023 10:32:49",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "CHF",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "25.08.2023 10:38:59",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "CHF",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "25.08.2023 10:45:06",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "25.08.2023 10:55:17",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "25.08.2023 10:59:58",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "25.08.2023 11:02:03",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "50.86",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "declined"
+    },
+    {
+        "date": "25.08.2023 11:08:53",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "155.0",
+        "amount_crypto": "157.87",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "declined"
+    },
+    {
+        "date": "25.08.2023 11:14:42",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "50.92",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "declined"
+    },
+    {
+        "date": "25.08.2023 11:20:18",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "50.92",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "expired"
+    },
+    {
+        "date": "25.08.2023 11:26:27",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "50.92",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "expired"
+    },
+    {
+        "date": "25.08.2023 11:27:48",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "50.92",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "expired"
+    },
+    {
+        "date": "25.08.2023 11:48:33",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "50.92",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "expired"
+    },
+    {
+        "date": "25.08.2023 11:53:04",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "50.92",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "paymentReceived"
+    },
+    {
+        "date": "25.08.2023 12:41:01",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "50.92",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "expired"
+    },
+    {
+        "date": "25.08.2023 12:43:40",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "50.92",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "paymentReceived"
+    },
+    {
+        "date": "25.08.2023 12:57:12",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "50.92",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "paymentReceived"
+    },
+    {
+        "date": "25.08.2023 13:14:39",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "50.96",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "paymentReceived"
+    },
+    {
+        "date": "25.08.2023 13:18:00",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "50.96",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "paymentReceived"
+    },
+    {
+        "date": "25.08.2023 13:28:07",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "25.08.2023 13:32:08",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "25.08.2023 13:52:38",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "25.08.2023 13:54:16",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "25.08.2023 13:56:23",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "50.96",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "declined"
+    },
+    {
+        "date": "25.08.2023 13:57:03",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "50.96",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "declined"
+    },
+    {
+        "date": "25.08.2023 14:09:03",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "155.0",
+        "amount_crypto": "157.94",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "declined"
+    },
+    {
+        "date": "28.08.2023 07:39:58",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "2666.0",
+        "amount_crypto": "3930.797",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "paymentReceived"
+    },
+    {
+        "date": "28.08.2023 08:25:59",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "73.604",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "paymentReceived"
+    },
+    {
+        "date": "28.08.2023 08:47:54",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "50.95",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "paymentReceived"
+    },
+    {
+        "date": "01.09.2023 13:00:27",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "100.0",
+        "amount_crypto": "147.651",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "declined"
+    },
+    {
+        "date": "01.09.2023 13:04:04",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "100.0",
+        "amount_crypto": "136.356",
+        "payment_currency": "USD",
+        "transfer_type": "Visa/Mastercard",
+        "status": "paymentReceived"
+    },
+    {
+        "date": "01.09.2023 13:05:50",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "100.0",
+        "amount_crypto": "136.356",
+        "payment_currency": "USD",
+        "transfer_type": "Visa/Mastercard",
+        "status": "paymentReceived"
+    },
+    {
+        "date": "01.09.2023 13:06:56",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "100.0",
+        "amount_crypto": "139.082",
+        "payment_currency": "USD",
+        "transfer_type": "Wire Transfer",
+        "status": "expired"
+    },
+    {
+        "date": "01.09.2023 13:34:23",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "100.0",
+        "amount_crypto": "136.356",
+        "payment_currency": "USD",
+        "transfer_type": "Visa/Mastercard",
+        "status": "cancelled"
+    },
+    {
+        "date": "01.09.2023 13:36:11",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "100.0",
+        "amount_crypto": "136.356",
+        "payment_currency": "USD",
+        "transfer_type": "Visa/Mastercard",
+        "status": "cancelled"
+    },
+    {
+        "date": "01.09.2023 14:18:34",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "100.0",
+        "amount_crypto": "147.873",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "declined"
+    },
+    {
+        "date": "01.09.2023 14:21:19",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "100.0",
+        "amount_crypto": "147.873",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "declined"
+    },
+    {
+        "date": "01.09.2023 14:27:38",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "100.0",
+        "amount_crypto": "136.356",
+        "payment_currency": "USD",
+        "transfer_type": "Visa/Mastercard",
+        "status": "paymentReceived"
+    },
+    {
+        "date": "01.09.2023 14:28:46",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "100.0",
+        "amount_crypto": "147.873",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "declined"
+    },
+    {
+        "date": "02.09.2023 14:23:47",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "1000.0",
+        "amount_crypto": "1363.672",
+        "payment_currency": "USD",
+        "transfer_type": "Visa/Mastercard",
+        "status": "paymentReceived"
+    },
+    {
+        "date": "02.09.2023 14:25:14",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "1000.0",
+        "amount_crypto": "1469.985",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "declined"
+    },
+    {
+        "date": "04.09.2023 07:34:48",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "100.0",
+        "amount_crypto": "146.986",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "expired"
+    },
+    {
+        "date": "04.09.2023 11:18:07",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "50.93",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "paymentReceived"
+    },
+    {
+        "date": "05.09.2023 08:16:29",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "50.7",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "paymentReceived"
+    },
+    {
+        "date": "05.09.2023 08:25:21",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "50.7",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "paymentReceived"
+    },
+    {
+        "date": "05.09.2023 08:33:45",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "50.7",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "paymentReceived"
+    },
+    {
+        "date": "05.09.2023 08:43:49",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "50.7",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "paymentReceived"
+    },
+    {
+        "date": "05.09.2023 08:47:39",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "05.09.2023 08:51:11",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "05.09.2023 09:09:51",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "05.09.2023 09:29:48",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "05.09.2023 09:45:10",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "05.09.2023 09:46:48",
+        "type": "BUY",
+        "asset": "Bitcoin",
+        "amount_fiat": "50.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "05.09.2023 09:51:18",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "05.09.2023 12:47:17",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "131.0",
+        "amount_crypto": "191.701",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "paymentReceived"
+    },
+    {
+        "date": "10.09.2023 13:58:13",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "11.09.2023 20:47:59",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "20.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "11.09.2023 20:50:43",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "20.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "11.09.2023 20:51:14",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "12.09.2023 06:49:50",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "50.61",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "paymentReceived"
+    },
+    {
+        "date": "13.09.2023 07:22:20",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "14.09.2023 12:07:24",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "73.164",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "paymentReceived"
+    },
+    {
+        "date": "14.09.2023 13:47:36",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "50.33",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "paymentReceived"
+    },
+    {
+        "date": "15.09.2023 07:21:02",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "74.074",
+        "payment_currency": "EUR",
+        "transfer_type": "SEPA",
+        "status": "expired"
+    },
+    {
+        "date": "15.09.2023 07:25:00",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "72.622",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "paymentReceived"
+    },
+    {
+        "date": "15.09.2023 07:43:17",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "1000.0",
+        "amount_crypto": "0.616479",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "paymentReceived"
+    },
+    {
+        "date": "15.09.2023 11:06:44",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "72.622",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "paymentReceived"
+    },
+    {
+        "date": "15.09.2023 12:28:44",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "200.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "15.09.2023 12:36:47",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "200.0",
+        "amount_crypto": "200.9",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "paymentReceived"
+    },
+    {
+        "date": "15.09.2023 12:38:23",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "200.0",
+        "amount_crypto": "200.9",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "declined"
+    },
+    {
+        "date": "15.09.2023 13:00:52",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "72.622",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "paymentReceived"
+    },
+    {
+        "date": "15.09.2023 13:03:26",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "100.0",
+        "amount_crypto": "145.244",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "declined"
+    },
+    {
+        "date": "15.09.2023 13:05:29",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "15.09.2023 13:06:45",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "72.622",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "declined"
+    },
+    {
+        "date": "15.09.2023 13:09:43",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "15.09.2023 13:14:53",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "15.09.2023 13:20:14",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "166.0",
+        "amount_crypto": "241.126",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "declined"
+    },
+    {
+        "date": "16.09.2023 09:11:25",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "502.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "16.09.2023 09:17:54",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "18.09.2023 08:39:13",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "50.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "19.09.2023 09:50:55",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "30.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "19.09.2023 09:52:57",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "30.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "19.09.2023 09:53:59",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "30.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "19.09.2023 09:55:02",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "30.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "19.09.2023 10:00:22",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "30.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "19.09.2023 10:00:57",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "30.0",
+        "amount_crypto": "0.0",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "pendingPayment"
+    },
+    {
+        "date": "19.09.2023 10:01:45",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "30.0",
+        "amount_crypto": "30.83",
+        "payment_currency": "EUR",
+        "transfer_type": "SEPA",
+        "status": "expired"
+    },
+    {
+        "date": "19.09.2023 12:28:37",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "20.0",
+        "amount_crypto": "29.167",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "paymentReceived"
+    },
+    {
+        "date": "19.09.2023 12:30:50",
+        "type": "BUY",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "20.0",
+        "amount_crypto": "29.167",
+        "payment_currency": "EUR",
+        "transfer_type": "Visa/Mastercard",
+        "status": "paymentReceived"
+    },
+    {
+        "date": "13.11.2023 17:21:55",
+        "type": "SELL",
+        "asset": "Polygon",
+        "amount_fiat": "0.0",
+        "amount_crypto": "100.0",
+        "payment_currency": "EUR",
+        "transfer_type": "BANK_TRANSFER",
+        "status": "expired"
+    },
+    {
+        "date": "15.11.2023 15:48:06",
+        "type": "SELL",
+        "asset": "Polygon",
+        "amount_fiat": "91.4",
+        "amount_crypto": "100.0",
+        "payment_currency": "EUR",
+        "transfer_type": "BANK_TRANSFER",
+        "status": "waitingPayment"
+    },
+    {
+        "date": "15.11.2023 16:24:12",
+        "type": "SELL",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "136.65",
+        "amount_crypto": "150.0",
+        "payment_currency": "EUR",
+        "transfer_type": "BANK_TRANSFER",
+        "status": "waitingPayment"
+    },
+    {
+        "date": "15.11.2023 16:32:04",
+        "type": "SELL",
+        "asset": "Polygon",
+        "amount_fiat": "182.2",
+        "amount_crypto": "200.0",
+        "payment_currency": "EUR",
+        "transfer_type": "BANK_TRANSFER",
+        "status": "waitingPayment"
+    },
+    {
+        "date": "16.11.2023 11:52:11",
+        "type": "SELL",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "45.65",
+        "amount_crypto": "50.0",
+        "payment_currency": "EUR",
+        "transfer_type": "BANK_TRANSFER",
+        "status": "expired"
+    },
+    {
+        "date": "16.11.2023 14:44:45",
+        "type": "SELL",
+        "asset": "Polygon",
+        "amount_fiat": "91.3",
+        "amount_crypto": "100.0",
+        "payment_currency": "EUR",
+        "transfer_type": "BANK_TRANSFER",
+        "status": "waitingPayment"
+    },
+    {
+        "date": "16.11.2023 14:52:47",
+        "type": "SELL",
+        "asset": "Polygon",
+        "amount_fiat": "109.56",
+        "amount_crypto": "120.0",
+        "payment_currency": "EUR",
+        "transfer_type": "BANK_TRANSFER",
+        "status": "waitingPayment"
+    },
+    {
+        "date": "16.11.2023 15:00:03",
+        "type": "SELL",
+        "asset": "Polygon",
+        "amount_fiat": "91.3",
+        "amount_crypto": "100.0",
+        "payment_currency": "EUR",
+        "transfer_type": "BANK_TRANSFER",
+        "status": "waitingPayment"
+    },
+    {
+        "date": "16.11.2023 16:17:11",
+        "type": "SELL",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "0.0",
+        "amount_crypto": "100.0",
+        "payment_currency": "EUR",
+        "transfer_type": "BANK_TRANSFER",
+        "status": "expired"
+    },
+    {
+        "date": "17.11.2023 12:12:50",
+        "type": "SELL",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "0.0",
+        "amount_crypto": "100.0",
+        "payment_currency": "EUR",
+        "transfer_type": "BANK_TRANSFER",
+        "status": "expired"
+    },
+    {
+        "date": "17.11.2023 12:14:42",
+        "type": "SELL",
+        "asset": "USD Coin (Polygon)",
+        "amount_fiat": "91.1",
+        "amount_crypto": "100.0",
+        "payment_currency": "EUR",
+        "transfer_type": "BANK_TRANSFER",
+        "status": "waitingPayment"
+    },
+    {
+        "date": "17.11.2023 12:22:58",
+        "type": "SELL",
+        "asset": "Polygon",
+        "amount_fiat": "0.0",
+        "amount_crypto": "0.001",
+        "payment_currency": "EUR",
+        "transfer_type": "BANK_TRANSFER",
+        "status": "expired"
+    },
+    {
+        "date": "17.11.2023 12:23:57",
+        "type": "SELL",
+        "asset": "Polygon",
+        "amount_fiat": "33.16",
+        "amount_crypto": "0.001",
+        "payment_currency": "EUR",
+        "transfer_type": "BANK_TRANSFER",
+        "status": "expired"
+    },
+    {
+        "date": "17.11.2023 12:50:22",
+        "type": "SELL",
+        "asset": "Bitcoin",
+        "amount_fiat": "33.16",
+        "amount_crypto": "0.001",
+        "payment_currency": "EUR",
+        "transfer_type": "BANK_TRANSFER",
+        "status": "waitingPayment"
+    },
+    {
+        "date": "08.12.2023 13:16:35",
+        "type": "SELL",
+        "asset": "Binance",
+        "amount_fiat": "0.0",
+        "amount_crypto": "100.0",
+        "payment_currency": "EUR",
+        "transfer_type": "BANK_TRANSFER",
+        "status": "expired"
+    }
+]

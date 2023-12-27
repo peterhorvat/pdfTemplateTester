@@ -1,0 +1,30 @@
+
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    </head>
+
+    <body>
+        {% if header == True %}
+            <div id="header">
+                <img class="bs_footer" src="templates/images/floin-logo.png" alt="Logo was not found"/>
+            </div>
+        {% endif %}
+
+
+        {% block content %}
+        {% endblock %}
+
+
+        {% if footer == True %}
+            <div id="footer">
+                <img class="bs_footer" src="templates/images/floin-logo.png" alt="Logo was not found"/>
+            </div>
+        {% endif %}
+    </body>
+</html>
+    
+    
