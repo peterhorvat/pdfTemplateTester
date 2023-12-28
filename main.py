@@ -1,8 +1,9 @@
 import argparse
 import os
 import uuid
+from datetime import datetime
 
-from helpers import load_data_from_json, generate_pdf, save_file, create_directory
+from helpers import load_data_from_json, generate_pdf, save_file, create_directory, format_date
 
 
 def parse_arguments():
@@ -30,7 +31,8 @@ if __name__ == '__main__':
         'date_to': args.date_to,
         'records': records,
         'summary': summary if args.summary else None,
-        'fiat_currency': 'EUR'
+        'fiat_currency': 'EUR',
+        'created_at': format_date(datetime.now())
     }
     pdf = generate_pdf(args.template_path, args.style_path, content)
     create_directory('out')
