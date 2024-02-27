@@ -1,0 +1,113 @@
+/*T*/
+@font-face{
+  font-family: 'Build';
+  font-style: normal;
+  font-weight: 300;
+  src: local(''),
+  url('ES-Build-Thin.woff2') format('woff2'), /* Super Modern Browsers */
+  url('ES-Build-Thin.woff') format('woff'), /* Modern Browsers */
+  url('ES-Build-Thin.ttf') format('truetype'); /* Safari, Android, iOS */
+}
+
+/*R*/
+@font-face{
+  font-family: 'Build';
+  font-style: normal;
+  font-weight: 400;
+  src: url('ES-Build-Regular.eot'); /* IE9 Compat Modes */
+  src: local(''),
+  url('ES-Build-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('ES-Build-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+  url('ES-Build-Regular.woff') format('woff'), /* Modern Browsers */
+  url('ES-Build-Regular.ttf') format('truetype'); /* Safari, Android, iOS */
+}
+
+@font-face{
+  font-family: 'Build';
+  font-style: italic;
+  font-weight: 400;
+  src: url('ES-Build-RegularItalic.eot'); /* IE9 Compat Modes */
+  src: local(''),
+  url('ES-Build-RegularItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('ES-Build-RegularItalic.woff2') format('woff2'), /* Super Modern Browsers */
+  url('ES-Build-RegularItalic.woff') format('woff'), /* Modern Browsers */
+  url('ES-Build-RegularItalic.ttf') format('truetype'); /* Safari, Android, iOS */
+}
+
+/*M*/
+@font-face{
+  font-family: 'Build';
+  font-style: normal;
+  font-weight: 500;
+  src: url('ES-Build-Medium.eot'); /* IE9 Compat Modes */
+  src: local(''),
+  url('ES-Build-Medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('ES-Build-Medium.woff2') format('woff2'), /* Super Modern Browsers */
+  url('ES-Build-Medium.woff') format('woff'), /* Modern Browsers */
+  url('ES-Build-Medium.ttf') format('truetype'); /* Safari, Android, iOS */
+}
+
+@font-face{
+  font-family: 'Build';
+  font-style: italic;
+  font-weight: 500;
+  src: url('ES-Build-MediumItalic.eot'); /* IE9 Compat Modes */
+  src: local(''),
+  url('ES-Build-MediumItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('ES-Build-MediumItalic.woff2') format('woff2'), /* Super Modern Browsers */
+  url('ES-Build-MediumItalic.woff') format('woff'), /* Modern Browsers */
+  url('ES-Build-MediumItalic.ttf') format('truetype'); /* Safari, Android, iOS */
+}
+
+/*SB*/
+@font-face{
+  font-family: 'Build';
+  font-style: normal;
+  font-weight: 600;
+  src: url('ES-Build-SemiBold.eot'); /* IE9 Compat Modes */
+  src: local(''),
+  url('ES-Build-SemiBold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('ES-Build-SemiBold.woff2') format('woff2'), /* Super Modern Browsers */
+  url('ES-Build-SemiBold.woff') format('woff'), /* Modern Browsers */
+  url('ES-Build-SemiBold.ttf') format('truetype'); /* Safari, Android, iOS */
+}
+
+@font-face{
+  font-family: 'Build';
+  font-style: italic;
+  font-weight: 600;
+  src: url('ES-Build-SemiBoldItalic.eot'); /* IE9 Compat Modes */
+  src: local(''),
+  url('ES-Build-SemiBoldItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('ES-Build-SemiBoldItalic.woff2') format('woff2'), /* Super Modern Browsers */
+  url('ES-Build-SemiBoldItalic.woff') format('woff'), /* Modern Browsers */
+  url('ES-Build-SemiBoldItalic.ttf') format('truetype'); /* Safari, Android, iOS */
+}
+
+/*B*/
+@font-face{
+  font-family: 'Build';
+  font-style: normal;
+  font-weight: 700;
+  src: url('ES-Build-Bold.eot'); /* IE9 Compat Modes */
+  src: local(''),
+  url('ES-Build-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('ES-Build-Bold.woff2') format('woff2'), /* Super Modern Browsers */
+  url('ES-Build-Bold.woff') format('woff'), /* Modern Browsers */
+  url('ES-Build-Bold.ttf') format('truetype'); /* Safari, Android, iOS */
+}
+
+@font-face{
+  font-family: 'Build';
+  font-style: italic;
+  font-weight: 700;
+  src: url('ES-Build-BoldItalic.eot'); /* IE9 Compat Modes */
+  src: local(''),
+  url('ES-Build-BoldItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('ES-Build-BoldItalic.woff2') format('woff2'), /* Super Modern Browsers */
+  url('ES-Build-BoldItalic.woff') format('woff'), /* Modern Browsers */
+  url('ES-Build-BoldItalic.ttf') format('truetype'); /* Safari, Android, iOS */
+}
+
+
+

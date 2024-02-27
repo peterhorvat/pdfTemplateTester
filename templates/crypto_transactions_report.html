@@ -23,18 +23,18 @@
             <tbody>
                 {% for record in records %}
                     <tr>
-                        <td>{{ record.date }}</td>
+                        <td>{{ record.date | format_date }}</td>
                         <td>{{ record.type }}</td>
                         <td>{{ record.token }}</td>
-                        <td>{{ record.amount }}</td>
+                        <td>{{ record.amount | format_crypto_amount }}</td>
                         <td>
-                            {{ record.network_fee }} {{ record.network_fee_currency }}
-                            {{ record.platform_fee }} {{ record.platform_fee_currency }}
+                            {{ record.network_fee | format_crypto_amount }} {{ record.network_fee_currency }}
+                            {{ record.platform_fee | format_crypto_amount }} {{ record.platform_fee_currency }}
                         </td>
-                        <td>{{ record.tx_id }}</td>
-                        <td>{{ record.from_address }}</td>
-                        <td>{{ record.to_address }}</td>
-                        <td>{{ record.status }}</td>
+                        <td>{{ record.tx_id | shorten_with_dots }}</td>
+                        <td>{{ record.from_address | shorten_with_dots }}</td>
+                        <td>{{ record.to_address | shorten_with_dots }}</td>
+                        <td>{{ record.status  | capitalize_first_letter }}</td>
                     </tr>
                 {% endfor %}
             </tbody>

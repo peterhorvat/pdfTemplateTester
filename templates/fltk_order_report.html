@@ -1,10 +1,11 @@
 {% extends "base.html" %}
 
 {% block content %}
-    <h2>FLTK Orders</h2>
-    {% if date_from and date_to %}
-        <h3>from {{ date_from }} to {{ date_to }}</h3>
-    {% endif %}
+
+{#    <h2>FLTK Orders</h2>#}
+{#    {% if date_from and date_to %}#}
+{#        <h3>from {{ date_from }} to {{ date_to }}</h3>#}
+{#    {% endif %}#}
     {% if records %}
         <table class="main">
             <thead>
@@ -21,13 +22,13 @@
             <tbody>
                 {% for record in records %}
                     <tr>
-                        <td>{{ record.date }}</td>
+                        <td>{{ record.date | format_date }}</td>
                         <td>{{ record.order }}</td>
-                        <td>{{ record.amount }}</td>
-                        <td>{{ record.price_per_token }} €</td>
-                        <td>{{ record.total_price }} €</td>
+                        <td>{{ record.amount | format_crypto_amount }}</td>
+                        <td>{{ record.price_per_token | format_amount_no_symbol(2, true) }} €</td>
+                        <td>{{ record.total_price | format_amount_no_symbol }} €</td>
                         <td>{{ record.payment_currency }}</td>
-                        <td>{{ record.status }}</td>
+                        <td>{{ record.status | capitalize_first_letter }}</td>
                     </tr>
                 {% endfor %}
             </tbody>

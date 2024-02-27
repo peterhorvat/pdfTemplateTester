@@ -22,11 +22,11 @@
             <tbody>
                 {% for record in records %}
                     <tr>
-                        <td>{{ record.date }}</td>
+                        <td>{{ record.date | format_date }}</td>
                         <td>{{ record.type }}</td>
-                        <td>{{ record.amount_crypto }}</td>
+                        <td>{{ record.amount_crypto | format_crypto_amount }}</td>
                         <td>{{ record.asset }}</td>
-                        <td>{{ record.amount_fiat }}</td>
+                        <td>{{ record.amount_fiat | format_amount_no_symbol }}</td>
                         <td>{{ record.payment_currency }}</td>
                         <td>{{ record.transfer_type }}</td>
                         <td>{{ record.status }}</td>

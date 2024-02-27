@@ -4,6 +4,11 @@ import json
 
 from jinja2 import Environment, FileSystemLoader
 from weasyprint import HTML, CSS
+from weasyprint.fonts import FontConfiguration
+
+import filters
+
+font_config = FontConfiguration()
 
 
 def save_file(out_file: str, content: bytes):
@@ -21,6 +26,9 @@ def build_html_template(template_path: str, content: dict) -> str:
     #                         autoescape=select_autoescape(['html']))
 
     jinja_env = Environment(loader=FileSystemLoader("templates/"))
+    for name in dir(filters):
+        if callable(getattr(filters, name)):
+            jinja_env.filters[name] = getattr(filters, name)
     template = jinja_env.get_template(template_path)
     return template.render(content)
 
@@ -28,8 +36,8 @@ def build_html_template(template_path: str, content: dict) -> str:
 def generate_pdf(template_path: str, style_path: str, content: dict) -> bytes:
     html = build_html_template(template_path, content)
     pdf_html = HTML(string=html, base_url='.')
-    pdf_css = CSS(f'templates/styles/{style_path}')
-    pdf_content = pdf_html.write_pdf(stylesheets=[pdf_css], presentational_hints=True)
+    pdf_css = CSS(f'templates/styles/{style_path}', font_config=font_config)
+    pdf_content = pdf_html.write_pdf(stylesheets=[pdf_css], presentational_hints=True, font_config=font_config)
     # pdf_render = pdf_html.render(stylesheets=[pdf_css])
     return pdf_content
 

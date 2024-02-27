@@ -10,9 +10,58 @@
     <body>
         {% if header == True %}
             <div id="header">
-                <img class="bs_footer" src="templates/images/floin-logo.png" alt="Logo was not found"/>
+                <img class="logo" src="templates/images/floin-logo.svg" alt="Floin"/>
+            </div>
+
+            <div class="top-right-bg">
+                <img class="" src="templates/images/top-right-bg.svg" alt="Floin"/>
             </div>
         {% endif %}
+
+        <table>
+            <tbody>
+                <tr>
+                    <td style="width: 100%;">
+                        <div class="name-address">
+                            <h2>Bojan Saftić</h2>
+                            <p>Pot na visoko 15j</p>
+                            <p>1000 Ljubljana</p>
+                            <p>Slovenia</p>
+                        </div>
+                    </td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>
+                        <table class="details">
+                            <tbody>
+                                <tr>
+                                    <td colspan="2">
+                                        <h3>FLTK Orders Statement</h3>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="title">Statement Date</td>
+                                    <td>22.02.2024</td>
+                                </tr>
+                                {% if date_from and date_to %}
+                                    <tr>
+                                        <td class="title">Statement Period</td>
+                                        <td>from {{ date_from }} to {{ date_to }}</td>
+                                    </tr>
+                                {% endif %}
+                                <tr>
+                                    <td class="title">Client ID</td>
+                                    <td>21509117</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
 
 
         {% block content %}
@@ -21,7 +70,25 @@
 
         {% if footer == True %}
             <div id="footer">
-                <img class="bs_footer" src="templates/images/floin-logo.png" alt="Logo was not found"/>
+                <table class="footer">
+                    <tbody>
+                        <tr>
+                            <td style="width: 1.5cm;">
+                                <img class="support-qr" src="templates/images/support-en1.svg" alt="Floin"/>
+                            </td>
+                            <td class="footer-support-text">
+                                <p class="footer footer-title"><span>Support</span></p>
+                                <p class="footer">Scan the QR code</p>
+                                {% if False %}<p class="footer">Scannen Sie den QR-Code</p>{% endif %}
+                            </td>
+                            <td class="footer-text">
+                                <p class="footer footer-title"><span>Floin AG</span>, Äulestrasse 45, 9490 Vaduz, Liechtenstein</p>
+                                <p class="footer">Registered with the Financial Market Authority Liechtenstein (FMA) as Virtual Asset Service Provider (VASP) and Crypto Asset Service Provider (CASP) under registration no. 329177, particularly concerning the generation, issuance, exchange, and custody of tokens and crypto assets.</p>
+                                {% if False %}<p class="footer">Registriert bei der Finanzmarktaufsicht Liechtenstein (FMA) als Virtual Asset Service Provider (VASP) und Crypto Asset Service Provider (CASP) unter der Registriernummer 329177, insbesondere bezüglich der Erstellung, Ausgabe, Tausch und Verwahrung von Token und Krypto-Assets.</p>{% endif %}
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
             </div>
         {% endif %}
     </body>
