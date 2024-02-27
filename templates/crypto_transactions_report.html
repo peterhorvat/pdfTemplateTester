@@ -1,11 +1,46 @@
 {% extends "base.html" %}
 
 {% block content %}
+  <h2>Wallet summary</h2>
+    {% if summary %}
+        <table class="main">
+            <thead>
+                <tr>
+                    <th>Token</th>
+                    <th>Amount</th>
+                    <th>Value {% if fiat_currency %}{{ fiat_currency }}{% endif %}</th>
+                    <th>Vested</th>
+                    <th>Staked</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for asset in summary %}
+                    <tr>
+                        <td>{{ asset.token_name }}</td>
+                        <td>
+                            {{ asset.amount }} {{ asset.token_symbol }}
+                        </td>
+                        <td>
+                            {{ asset.value }} {{ fiat_currency }}
+                        </td>
+                        <td>
+                            {{ asset.vested_amount }} {{ asset.token_symbol }}
+                            {{ asset.vested_value }} {{ fiat_currency }}
+                        </td>
+                        <td>
+                            {{ asset.staked_amount }} {{ asset.token_symbol }}
+                            {{ asset.staked_value }} {{ fiat_currency }}
+                        </td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    {% endif %}
     <h2>Crypto Transactions</h2>
     {% if date_from and date_to %}
         <h3>from {{ date_from }} to {{ date_to }}</h3>
     {% endif %}
-    {% if records %}
+    {% if records and records %}
         <table class="main">
             <thead>
                 <tr>

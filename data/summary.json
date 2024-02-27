@@ -1,0 +1,32 @@
+[
+  {
+    "token_name": "Ethereum",
+    "token_symbol": "ETH",
+    "amount": 1.25123,
+    "value": 2709.68,
+    "vested_amount": 0,
+    "vested_value": 0,
+    "staked_amount": 0,
+    "staked_value": 0
+  },
+    {
+    "token_name": "Bitcoin",
+    "token_symbol": "BTC",
+    "amount": 0.52315,
+    "value": 20203.88,
+    "vested_amount": 0,
+    "vested_value": 0,
+    "staked_amount": 0,
+    "staked_value": 0
+  },
+      {
+    "token_name": "Floin Token",
+    "token_symbol": "FLTK",
+    "amount": 24000,
+    "value": 1104,
+    "vested_amount": 100000,
+    "vested_value": 4600,
+    "staked_amount": 5000,
+    "staked_value": 230
+  }
+]

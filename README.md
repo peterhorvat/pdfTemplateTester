@@ -41,10 +41,15 @@ python main.py data/crypto_transactions_report.json crypto_transactions_report.h
 
 ### Example with defined date range:
 ```shell
-python main.py data/onramp_offramp_report.json onramp_offramp_report.html --date_from==2021-01-01 --date_to==2023-01-01
+python main.py data/onramp_offramp_report.json onramp_offramp_report.html --date_from=2021-01-01 --date_to=2023-01-01
 ```
 
 ### Example with defined date range and style:
 ```shell
-python main.py data/onramp_offramp_report.json onramp_offramp_report.html --date_from==2021-01-01 --date_to==2023-01-01 --style_path==style.css
+python main.py data/onramp_offramp_report.json onramp_offramp_report.html --date_from=2021-01-01 --date_to=2023-01-01 --style_path=style.css
+```
+
+### Example with added account summary to template:
+```shell
+python main.py data/crypto_transactions_report.json crypto_transactions_report.html --summary
 ```

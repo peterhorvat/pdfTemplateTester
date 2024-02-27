@@ -1,3 +1,4 @@
+from datetime import datetime
 from pathlib import Path
 import os
 import json
@@ -45,3 +46,7 @@ def generate_pdf(template_path: str, style_path: str, content: dict) -> bytes:
 def create_directory(directory_path: str):
     if not os.path.exists(directory_path):
         os.makedirs(directory_path)
+
+
+def format_date(date: datetime) -> str:
+    return datetime.strptime(str(date), '%Y-%m-%d %H:%M:%S.%f').strftime('%d.%m.%Y %H:%M:%S')
